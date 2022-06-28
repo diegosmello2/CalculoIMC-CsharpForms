@@ -1,0 +1,11 @@
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\diego.lsmello\Documents\UC12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
